@@ -6,7 +6,7 @@ permalink: /hotkeys/
 ***
 I find myself using the HEAVYPOLY (Vaughan Ling) hotkeys in Blender more often than not, and since they are used in the SKS YouTube videos I thought it would be a good idea to at least throw them up here too :)
 
-[CLICK FOR SCRIPTS & CONFIG DOWNLOAD (HEAVYPOLY DROPBOX LINK)](https://www.youtube.com/redirect?q=https%3A%2F%2Fwww.dropbox.com%2Fsh%2F0hxro44yswl0nzq%2FAADugSZKQzFFQywN8xaIqIESa%3Fdl%3D1&redir_token=ptSZPQ5Cb0F-BA8gMnO2YWjzkIx8MTU0ODAxNTc3OEAxNTQ3OTI5Mzc4&event=video_description&v=aQKUCjTRzTk)
+[CLICK FOR SCRIPTS & CONFIG DOWNLOAD (HEAVYPOLY DROPBOX LINK)](https://www.dropbox.com/sh/0hxro44yswl0nzq/AADugSZKQzFFQywN8xaIqIESa?dl=1)
 
 ---
 
